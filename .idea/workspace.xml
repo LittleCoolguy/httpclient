@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d15f0a9e-8655-40f6-bab6-db989f7ceb20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\mavenRespository" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LVM0o4gqIRbt81J7pQozYK46x6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="E:/Android" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="testFileDownload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.testFileDownload" />
+      <module name="httpclient4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testFileDownload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d15f0a9e-8655-40f6-bab6-db989f7ceb20" name="Default Changelist" comment="" />
+      <created>1675951575500</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675951575500</updated>
+      <workItem from="1675951578068" duration="1095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom" timestamp="1675952659607">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1675952659607" />
+    <state width="1493" height="146" key="GridCell.Tab.0.center" timestamp="1675952659607">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1675952659607" />
+    <state width="1493" height="146" key="GridCell.Tab.0.left" timestamp="1675952659607">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1675952659607" />
+    <state width="1493" height="146" key="GridCell.Tab.0.right" timestamp="1675952659607">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1675952659607" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1675951689814">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1675951689814" />
+  </component>
+</project>
